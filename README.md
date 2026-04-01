@@ -101,7 +101,6 @@ The best model is selected automatically based on ROC-AUC score.
 - **Joblib** — model serialization
 
 ---
-
 ## Results
 
 Typical performance on Telco Churn dataset:
